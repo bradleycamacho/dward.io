@@ -2,7 +2,7 @@
 <div>
     {{- if .imageUrl -}}
     <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
-        height="{{ .imageHeight | default 400 }}" width="{{ .imageWidth | default 400 }}" style="float:right" />
+        height="{{ .imageHeight | default 500 }}" width="{{ .imageWidth | default 500 }}" style="float:right" />
     {{- end }}
 </div>
 <article class="first-entry home-info">
