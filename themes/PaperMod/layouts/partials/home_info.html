@@ -1,13 +1,13 @@
 {{- with $.Site.Params.homeInfoParams }}
+<div>
+    {{- if .imageUrl -}}
+    <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
+        height="{{ .imageHeight | default 400 }}" width="{{ .imageWidth | default 400 }}" style="float:right" />
+    {{- end }}
+</div>
 <article class="first-entry home-info">
     <header class="entry-header">
-        <h1>{{ .Title | markdownify }}</h1>
-        <div>
-            {{- if .imageUrl -}}
-            <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
-                height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
-            {{- end }}
-        </div>
+        <h1>{{ .Title | markdownify }}</h1>       
     </header>
     <section class="entry-content">
         <p>{{ .Content | markdownify }}</p>

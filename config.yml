@@ -12,7 +12,7 @@ params:
   homeInfoParams:
       Title: Bradley Camacho
       Content: Tech Writer and hobbyist of many, many things
-      imageUrl: https://github.com/bradleycamacho/dward.io/blob/0a28d5a0206439735f1087ef8a1853c2dd997778/static/150.png?raw=true # optional
+      imageUrl: https://github.com/bradleycamacho/dward.io/blob/0a28d5a0206439735f1087ef8a1853c2dd997778/static/profile.png?raw=true # optional
       imageTitle: "A photo of Bradley Camacho" # optional
   socialIcons: # optional
     - name: github
