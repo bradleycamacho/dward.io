@@ -1,0 +1,4 @@
+baseURL: "https://dward.io/"
+title: Bradley
+paginate: 5
+theme: PaperMod
