@@ -25,3 +25,6 @@ params:
       url: "https://www.linkedin.com/in/bradley-camacho/"
     - name: twitter
       url: "https://twitter.com/bradleyrcamacho"
+  markup:
+      renderer:
+        unsafe: true
