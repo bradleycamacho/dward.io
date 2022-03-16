@@ -2,3 +2,22 @@ baseURL: "https://dward.io/"
 title: Bradley
 paginate: 5
 theme: PaperMod
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: false
+  TocOpen: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  homeInfoParams:
+      Title: Bradley Camacho
+      Content: Tech Writer and hobbyist of many, many things
+  socialIcons: # optional
+    - name: github
+      url: "https://github.com/bradleycamacho"
+    - name: goodreads
+      url: "https://www.goodreads.com/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/bradley-camacho/"
+    - name: twitter
+      url: "https://twitter.com/bradleyrcamacho"
