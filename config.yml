@@ -12,7 +12,7 @@ params:
   homeInfoParams:
       Title: Bradley Camacho
       Content: Tech Writer and hobbyist of many, many things
-      imageUrl: profile.png # optional
+      imageUrl: 150.png # optional
       imageTitle: "A photo of Bradley Camacho" # optional
   socialIcons: # optional
     - name: github
