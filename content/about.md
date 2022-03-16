@@ -5,6 +5,7 @@ hidemeta : true
 ---
 
 <img src="/merlin.png"/>
+
 <img src="merlin.png" alt="Merlinnn">
 
 I'm a technical documentation writer at [New Relic](docs.newrelic.com) with a heavy emphasis on internal open source strategy and workflows. I was an english major at UGA, so I love reading and writing - I mean, I did make it my career ;)
