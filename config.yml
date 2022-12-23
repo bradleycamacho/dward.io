@@ -1,5 +1,5 @@
 baseURL: "https://dward.io/"
-title: AKA Dward
+title: Bradley Camacho
 paginate: 5
 theme: PaperMod
 
@@ -11,7 +11,7 @@ params:
   ShowCodeCopyButtons: true
   homeInfoParams:
       Title: Bradley Camacho
-      Content: Tech writer and hobbyist of many, many things. 
+      Content: Tech writer - PDX
       imageUrl: https://github.com/bradleycamacho/dward.io/blob/main/static/profile.png?raw=true # optional
       imageTitle: "A photo of Bradley Camacho" # optional
       imageWidth: 244 # custom size
